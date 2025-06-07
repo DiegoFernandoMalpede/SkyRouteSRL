@@ -1,0 +1,18 @@
+Documentación del proyecto#Encabezado:
+SkyRoute S.R.L - Sistema de Gestión de Pasajes aéreos para empresas y particulares
+
+Propósito:
+El propósito de nuestra empresa "Programadores Unidos" lider en el mercado es la de realizar un programa de administración de los clientes, los destinos y las ventas de la compania "SkyRoute S.R.L.", 
+basados en la buena onda y el humor.
+
+#Instalación: 
+#1. Instalación de Entorno de Desarrollo(Visual Studio Code): Descargarlo de la plataforma oficial e instalarlo.
+#2. Instalación de programa(Python): Descargarlo desde la plataforma oficial e instalarlo.
+#3. Instalación de Gestor de Base de Datos(MySQL Workbench): Descargarlo desde la plataforma oficial e instalarlo.
+#4. Ejecución del programa el Entorno de desarrollo: Abrir Visual Studio Code para luego abrir la carpeta donde se encuentra el archivo main.py.
+
+#Integrantes:
+#Diego Fernando Malpede, DNI 25070951
+#Emilse Rodriguez, DNI 35578025
+#Juan Mercado, DNI 37488185
+#Jeremías Alejo Lopez, DNI 45703187
