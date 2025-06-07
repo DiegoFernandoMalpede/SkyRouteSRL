@@ -1,0 +1,61 @@
+Nombre Proyecto: Base de Datos para SkyRoute S.R.L.
+
+Descripción breve:
+Este proyecto es un sistema hecho en Python que usa una base de datos MySQL.
+Sirve para una empresa de viajes (SkyRoute) para gestionar:
+Clientes
+Destinos
+Ventas de pasajes
+También agregamos un "botón de arrepentimiento", que permite cancelar una venta
+si pasaron menos de 5 minutos desde que se hizo.
+
+Integrantes del grupo:
+Diego Fernando Malpede  
+Emilse Rodriguez  
+Juan Mercado
+Jeremías Alejo Lopez
+
+
+¿Qué necesito para que funcione?
+Tener Python instalado (3.9 o más nuevo)
+Tener MySQL instalado
+Instalar este paquete: mysql-connector-python
+Lo podés instalar así en la terminal o CMD:
+pip install mysql-connector-python
+
+
+¿Cómo lo uso?
+Descargar este proyecto o clonarlo desde GitHub
+Crear la base de datos con el archivo skyroute.sql
+(lo podés importar desde MySQL Workbench o con la consola de MySQL)
+Cambiar los datos de conexión en el archivo config.py:
+DB_HOST = 'localhost'
+DB_NAME = 'skyroute'
+DB_USER = 'root'
+DB_PASS = 'tupassword'
+Ejecutar el programa con:
+python main.py
+
+
+¿Qué puedo hacer con este sistema?
+Ver clientes, agregar, modificar o borrar
+Ver destinos, agregar, modificar o borrar
+Registrar ventas 
+Cancelar una venta si fue hecha hace menos de 5 minutos
+Ver consultas útiles con SQL (por ejemplo, ventas por país)
+
+
+En el Repositorio encontrás:
+main.py                 
+config.py               
+conexion_base_datos.py  
+gestion_clientes.py    
+gestion_destinos.py     
+gestion_ventas.py       
+skyroute.sql            
+README.md              
+
+
+
+
+
