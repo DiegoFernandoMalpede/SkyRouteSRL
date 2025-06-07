@@ -1,0 +1,25 @@
+1. Botón de Arrepentimiento
+
+En el sistema agregamos una función para que el usuario pueda anular una venta si se arrepiente dentro de los primeros 5 minutos. Esto se hace por ley, ya que el cliente tiene derecho a cancelar compras hechas por internet o a distancia. Lo que hicimos fue cambiar el estado de la venta a “anulada” y guardar la hora en que se hizo. Así no se borra nada, y queda todo registrado.
+
+2. Ley 11.723 – Propiedad Intelectual
+
+Esta ley protege el trabajo de los autores. Como nosotros hicimos el código del sistema, nos pertenece. Si una empresa lo quiere usar, se puede hacer un acuerdo o contrato. Es importante que sepamos que todo lo que programamos tiene valor, y no hay que compartirlo sin permiso.
+
+3. Ley 25.326 – Datos Personales
+
+Como el sistema guarda datos como nombre, CUIT y correo de los clientes, tenemos que ser responsables. No hay que compartir esa información ni dejar que cualquiera entre al sistema. Aunque todavía no hicimos encriptación ni contraseñas, sabemos que para una versión real sería necesario cuidar bien esos datos.
+
+4. Convenio de Budapest – Ciberseguridad
+
+Este convenio sirve si llega a haber un problema de ciberseguridad entre países. Por ejemplo, si alguien entra desde otro país y roba datos, las leyes de los países se pueden unir para investigar. 
+
+5. Inteligencia Artificial
+
+Por ahora no usamos inteligencia artificial, pero si el sistema creciera y se agregaran recomendaciones automáticas, habría que tener cuidado con eso. No siempre la IA es justa o correcta, y hay que explicarle al usuario cómo se toman las decisiones.
+
+6. Conclusión
+
+Esta parte del trabajo nos sirvió para pensar más allá del código. Como programadores, también somos responsables de cuidar los datos, respetar leyes y hacer las cosas bien. Aprendimos que la ética no es solo una materia, sino algo que hay que aplicar siempre que se programa.
+
+
