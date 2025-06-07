@@ -1,5 +1,3 @@
-
-
 print("¡Bienvenidos a SkyRoute S.R.L. - Sistema de Gestión de Pasajes para el administrativo pulenta!")
 #ciclo"WHILE"
 while True:
